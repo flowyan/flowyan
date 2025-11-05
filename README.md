@@ -2,10 +2,10 @@
 <table align="center">
 	<tr>
 		<td>
-			<img src="https://github-readme-stats-ruddy-rho-61.vercel.app/api?username=antoninvf&count_private=true&theme=merko" />
+			<img src="https://github-readme-stats-ruddy-rho-61.vercel.app/api?username=flowyan&count_private=true&theme=merko" />
 		</td>
 		<td>
-			<img src="https://github-readme-stats-ruddy-rho-61.vercel.app/api/top-langs?username=antoninvf&count_private=true&layout=compact&theme=merko" />
+			<img src="https://github-readme-stats-ruddy-rho-61.vercel.app/api/top-langs?username=flowyan&count_private=true&layout=compact&theme=merko" />
 		</td>
 	</tr>
 </table>
