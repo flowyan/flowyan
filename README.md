@@ -23,7 +23,7 @@ I love coding in C# but was taught Java in high school and that's mainly how I g
   - Currently private, because I'm lazy to remove all the tokens etc. from git history
 - A tool named Beholder for Pterodactyl that collects and parses chat logs from game servers and sends them to discord
   - It also lets me send an global server-wide announcement that gets sent to every hosted server on my Pterodactyl node
-- [My personal website of course](https://github.com/antoninvf/flwn.dev) which you can visit [right here](https://flwn.dev)
+- [My personal website of course](https://github.com/flowyan/flwn.dev) which you can visit [right here](https://flwn.dev)
 - Voxel game that I don't know if I'll ever finish but it's cool :)
  
  #### My other hobbies
